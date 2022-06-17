@@ -1,2 +1,2 @@
 # registrationforms.github.io
-forms
+This is a page with forms
